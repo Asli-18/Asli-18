@@ -15,7 +15,7 @@ I am currently training as a Frontend Developer. I love writing clean, modern co
 ---
 
 ## 📂 Projects
-- [Join]([https://github.com/Asli-18/Join](https://github.com/AlexPutilin/Join)) – Group project  
+- [Join](https://github.com/AlexPutilin/Join) – Group project  
 - [Sharkie](https://github.com/Asli-18/sharkie) – Current project
 
 ---
